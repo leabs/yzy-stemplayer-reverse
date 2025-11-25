@@ -1,0 +1,4 @@
+[
+  {"bmreq":"0x40","breq":"0x02","wvalue":"0x1234","windex":"0","data":"01 02 03 04","repeat":1,"timeout":500},
+  {"bmreq":"0xC0","breq":"0x01","wvalue":"0","windex":"0","length":64,"repeat":1,"timeout":500}
+]
